@@ -8,4 +8,4 @@ This project focuses on Human Resource (HR) analytics using the IBM HR Analytics
 * [Tableau](https://www.tableau.com/)
 
 ## Project detail available at
-[Project Detail Page](https://leo-hs-lee.github.io/hr_analytics.html))
+[Project Detail Page](https://leo-hs-lee.github.io/hr_analytics.html)
