@@ -1,6 +1,6 @@
 # Human Resource Analytics & Prediction
 
-## 🎞️ About the Project
+## 👨‍💻 About the Project
 This project focuses on Human Resource (HR) analytics using the IBM HR Analytics Employee Attrition & Performance dataset. The goal is to analyze employee attrition and performance to gain insights that can help improve employee retention and satisfaction within organizations.
 
 ### Tools Used
